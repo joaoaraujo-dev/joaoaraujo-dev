@@ -125,5 +125,5 @@ align="left"
 alt="GitHub" 
 title="GitHub" 
 width="30px" 
-style="padding-right: 10px;" 
+style="padding-right: 10px; background-color: white; border-radius: 50%;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
