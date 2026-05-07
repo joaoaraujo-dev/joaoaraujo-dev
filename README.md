@@ -1,4 +1,4 @@
-# João Araujo
+# João Araújo
 
 ### 👨‍💻 Linguagens e Tecnologias
 
